@@ -2,7 +2,7 @@
 
 # Hello world with Java
 
-A basic JavaScript project that prints a "Hello World."
+A basic JavaScript project that prints a "Hello World with Java."
 ### Built With
 
 This project build with:
