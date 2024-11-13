@@ -33,7 +33,7 @@ This project build with:
 
 ### Download image
 ```
-    docker pull edwinallauca/java-app
+    docker pull edwinallauca/java-app:v1.0
 ```
 ### Image in DockerHub
 
@@ -42,7 +42,7 @@ This project build with:
 ### View the results
 You can open de CMD and run this :
 ```
-    docker run -it java-app
+    docker run -it edwinallauca/java-app:v1.0
 ```
 With this command you will verify that you have the image in your docker.
 
