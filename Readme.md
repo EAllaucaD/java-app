@@ -2,7 +2,7 @@
 
 # Hello world with Java
 
-A basic JavaScript project that prints a "Hello World with Java."
+A basic Java project that prints a "Hello World with Java."
 ### Built With
 
 This project build with:
@@ -18,8 +18,8 @@ This project build with:
 
 ##Pre-requisites
 
-* You need to have installed JDK 17 and VSC on your laptop.
-* Inside the editor VSC, open the Main.java file and run the project.
+* You need to have installed JDK 17 and IntelliJ on your laptop.
+* Inside the editor IntelliJ, open the Main.java file and run the project.
 
 
 ### Deploy with Railway
