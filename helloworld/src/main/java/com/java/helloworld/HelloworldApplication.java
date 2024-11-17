@@ -18,6 +18,6 @@ class HelloController {
 
 	@GetMapping("/")
 	public String hello() {
-		return "Hello World with Java - Edwin Allauca";
+		return "Hello World with Java - Edwin Allauca  ";
 	}
 }
