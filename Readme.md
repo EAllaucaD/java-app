@@ -24,11 +24,6 @@ This project build with:
 
 ### Deploy with Railway
 You need to link your Github account.
-
-Log : Hello World with Java and Railway.
-
-### Deploy with Railway
-You need to link your Github account.
 Select the Java Project.
 
 Log : Hello World with Java and Railway.
