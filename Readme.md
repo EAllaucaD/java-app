@@ -61,4 +61,4 @@ You need to link your Github account.
 
 Log : Hello World with Java and Railway.
 
-![image](https://github.com/user-attachments/assets/4e10a118-9a84-4bcb-a458-1a524bb20fcb)
+![image](https://github.com/user-attachments/assets/cc460e65-f6b8-4a6e-a7f2-9a57abd85122)
